@@ -1,7 +1,7 @@
 <template>
   <div class="profile">
     <div class="dp-container">
-      <img src="https://picsum.photos/300" alt="dp" />
+      <img src="https://avatars.githubusercontent.com/u/4293974?v=4" alt="dp" />
     </div>
     <h3>Anom Yulian Hartanto</h3>
     <p>Front-end Developer</p>

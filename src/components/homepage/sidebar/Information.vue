@@ -3,12 +3,14 @@
     <div class="information-container">
       <div class="questions">
         <p>Residence</p>
+        <p>Country</p>
         <p>Date Of Birth</p>
         <p>WhatsApp</p>
         <p>Email</p>
       </div>
       <div class="answers text-overlay-1">
         <p>Semarang</p>
+        <p>Indonesia</p>
         <p>08 July 1994</p>
         <p>+628122013808</p>
         <p>a.yulian.h@gmail.com</p>

@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { RouterView } from "vue-router";
-import MobileWarning from "./components/MobileWarning.vue";
 
 </script>
 

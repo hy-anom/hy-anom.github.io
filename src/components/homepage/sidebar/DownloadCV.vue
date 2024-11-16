@@ -1,6 +1,6 @@
 <template>
   <div class="download">
-    <a href="#" class="text-overlay-1">
+    <a href="https://drive.google.com/file/d/1eaZFIee7zycrMskSBNlZg3MpmHen3j86/view?usp=sharing" target="_blank" class="text-overlay-1">
       ♘ Download CV ♞
     </a>
   </div>

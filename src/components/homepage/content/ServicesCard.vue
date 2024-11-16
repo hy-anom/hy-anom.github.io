@@ -12,9 +12,9 @@
     <p class="text-overlay-1">
       {{ text }}
     </p>
-    <a :href="url">
+    <!-- <a :href="url">
       See more detail >
-    </a>
+    </a> -->
   </div>
 </template>
 
